@@ -1,5 +1,5 @@
 <?php
-$file = 'a.txt';
+$file = '../a.txt';
 $content = "A";
 
 // Tulis ke file (buat baru jika belum ada)
