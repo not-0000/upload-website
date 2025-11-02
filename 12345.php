@@ -67,7 +67,7 @@ $root_url = '';
 
 // Server hostname. Can set manually if wrong
 // $_SERVER['HTTP_HOST'].'/folder'
-$http_host = $_SERVER['HTTP_HOST'] . '/tka';
+$http_host = $_SERVER['HTTP_HOST'];
 
 // input encoding for iconv
 $iconv_input_encoding = 'UTF-8';
